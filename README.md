@@ -1,16 +1,35 @@
-## Hi there 👋
+# Muhammad Bilal
 
-<!--
-**bilal335-work/bilal335-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Product Engineer**
 
-Here are some ideas to get you started:
+I build complete software products, from product interfaces to backend systems, APIs, automation, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes SaaS platforms, AI tools, browser automation, real-time systems, and cross-platform mobile apps.
+
+## What I build
+
+- SaaS products and internal platforms
+- AI tools and automation workflows
+- Browser automation and integrations
+- React and TypeScript applications
+- Node.js and NestJS backend systems
+- React Native mobile apps
+- PostgreSQL, Redis, WebSockets, and API integrations
+
+## Selected work
+
+Recent projects include Sermuno, NamazMate, UnitBuzz, Triton, Chrome-MCP, and Ostren.
+
+## Bilal Portfolio
+
+See my projects and product work at:
+
+**[bilalworkfolio.me](https://bilalworkfolio.me/)**
+
+## Connect
+
+**LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-product-engineer/)
+
+**Portfolio:** [Bilal Portfolio](https://bilalworkfolio.me/)
+
+**Location:** Pakistan
